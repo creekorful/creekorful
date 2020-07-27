@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Aloïs Micard!
+### I'm Aloïs Micard!
 
 I'm a software developer passionate by architecture & security.
 
-When building something I like to seek for the best performances.
+- 📦 I'm a [sponsored](https://wiki.debian.org/SponsoredMaintainer) Debian maintainer (here's my [packages](https://qa.debian.org/developer.php?login=alois@micard.lu)).
+- ✍️ I write blog [posts](https://blog.creekorful.com) from time to time.

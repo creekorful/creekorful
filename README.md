@@ -8,6 +8,6 @@ I'm a software developer passionate by architecture & security.
 - ✍️ I write blog [posts](https://blog.creekorful.com) from time to time.
 - 🐹 I develop, package and help maintain [Go](https://golang.org) librairies.
 
-You can contact me at: `alois at micard dot lu`
+You can contact me at: alois@micard.lu
 
 Sensible messages may be encrypted using the [my PGP key](https://raw.githubusercontent.com/creekorful/creekorful/master/creekorful.asc).

@@ -10,4 +10,4 @@ I'm a software developer passionate by architecture & security.
 
 You can contact me at: alois@micard.lu
 
-Sensible messages may be encrypted using the [my PGP key](https://raw.githubusercontent.com/creekorful/creekorful/master/creekorful.asc).
+Sensible messages may be encrypted using the [my PGP key](https://www.creekorful.com/pgp.asc).

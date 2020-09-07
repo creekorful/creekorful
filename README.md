@@ -10,4 +10,4 @@ A software developer passionate by architecture & security.
 
 You can contact me at: alois@micard.lu
 
-Sensible messages may be encrypted using the [my PGP key](https://www.creekorful.com/pgp.asc).
+Sensible messages may be encrypted using the [my PGP key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xda4aa4369bfae29967cde85bf733e8710859fcd2).

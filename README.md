@@ -2,7 +2,7 @@
 
 ### I'm Aloïs Micard!
 
-A software developer passionate by architecture & security.
+A software developer passionate about architecture & security.
 
 - 📦 I'm a Debian maintainer (here's my [packages](https://qa.debian.org/developer.php?login=alois@micard.lu)).
 - ✍️ I write blog [posts](https://blog.creekorful.com) from time to time.

@@ -6,8 +6,8 @@ A software developer passionate about architecture & security.
 
 - 📦 I'm a Debian maintainer (see my [packages](https://qa.debian.org/developer.php?login=alois@micard.lu)).
 - 📟 I develop, package and help maintain [Go](https://golang.org/) & sometimes [Rust](https://www.rust-lang.org/) librairies.
+- 🕷️ I work on [Trandoshan](https://github.com/creekorful/trandoshan) a Fast, highly configurable, cloud native dark web crawler.
 - ✍️ I write blog [posts](https://blog.creekorful.com) from time to time.
-- 🕷️ I'm working on [Trandoshan](https://github.com/creekorful/trandoshan) a Fast, highly configurable, cloud native dark web crawler.
 
 You can contact me at: alois@micard.lu
 

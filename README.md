@@ -2,7 +2,7 @@
 
 ### I'm Aloïs Micard!
 
-A software developer passionate about architecture & security.
+A software developer passionate about architecture, [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) & more broadly, cyber-security.
 
 - 📦 I am a Debian maintainer (see my [packages](https://qa.debian.org/developer.php?login=alois@micard.lu)).
 - 📟 I develop, package and help maintain [Go](https://golang.org/) & sometimes [Rust](https://www.rust-lang.org/) librairies.

@@ -5,7 +5,7 @@
 A software developer passionate about architecture, [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) & more broadly, cyber-security.
 
 - 📦 I am a Debian maintainer (see my [packages](https://qa.debian.org/developer.php?login=alois@micard.lu)).
-- 📟 I develop, package and help maintain [Go](https://golang.org/) & sometimes [Rust](https://www.rust-lang.org/) librairies.
+- 📟 I develop, package and help maintain [Go](https://golang.org/) librairies.
 - 🕸️ I work on [Bathyscaphe](https://github.com/darkspot-org/bathyscaphe) a fast, highly configurable, cloud native dark web crawler.
 - ✍️ I write blog [posts](https://blog.creekorful.com) from time to time.
 

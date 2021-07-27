@@ -10,6 +10,6 @@ A software developer passionate about architecture, [OSINT](https://en.wikipedia
 - 🕸️ My pet project is [Bathyscaphe](https://github.com/darkspot-org/bathyscaphe) a fast, highly configurable, cloud native dark web crawler.
 - ✍️ I write [blog posts](https://blog.creekorful.org) from time to time.
 
-You can contact me at: alois@micard.lu
+You can contact me at: alois@micard.lu / creekorful@debian.org.
 
 Sensible messages may be encrypted using [my PGP key](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xda4aa4369bfae29967cde85bf733e8710859fcd2).

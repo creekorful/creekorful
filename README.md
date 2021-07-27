@@ -4,7 +4,7 @@
 
 A software developer passionate about architecture, [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) & more broadly, cyber-security.
 
-- 📦 I am a Debian developer (see my [packages](https://qa.debian.org/developer.php?login=alois@micard.lu)).
+- 📦 I am a Debian developer (see my [packages](https://qa.debian.org/developer.php?login=Alo%C3%AFs+Micard)).
 - 📟 I develop, package and help maintain [Go](https://golang.org/) librairies.
 - 💼 I'm a full stack developer at [eBrand](https://ebrandservices.com/) where I design, implement & maintain cyber-security products.
 - 🕸️ My pet project is [Bathyscaphe](https://github.com/darkspot-org/bathyscaphe) a fast, highly configurable, cloud native dark web crawler.

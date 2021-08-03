@@ -9,7 +9,7 @@ A software developer passionate about architecture, [OSINT](https://en.wikipedia
 - 💼 I'm a full stack developer at [eBrand](https://ebrandservices.com/) where I design, implement & maintain cyber-security products.
 - 🕸️ My pet project is [Bathyscaphe](https://github.com/darkspot-org/bathyscaphe) a fast, highly configurable, cloud native dark web crawler.
 - ✍️ I write [blog posts](https://blog.creekorful.org) from time to time.
-- 🏃‍♂️ I'm training on running a half-marathon (21km), my longest distance is 11km.
+- 🏃‍♂️ I'm training on running a half-marathon (21km), my longest distance so far is 11km.
 
 You can contact me at: alois@micard.lu / creekorful@debian.org.
 

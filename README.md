@@ -8,7 +8,7 @@ A software engineer passionate about architecture, [OSINT](https://en.wikipedia.
 - 📟 I develop, package and help maintain [Go](https://golang.org/) librairies.
 - 💼 I'm a CTO at [VOLD](https://vold.lu/) where I'm leading a development team building custom software for businesses with a focus on Cybersecurity.
 - 🕸️ My pet project is [Bathyscaphe](https://github.com/darkspot-org/bathyscaphe) a fast, highly configurable, cloud native dark web crawler.
-- ✍️ I write [blog posts](https://blog.creekorful.org) from time to time.
+- ✍️ I write [blog posts](https://creekorful.blog) from time to time.
 - 🏃‍♂️ I'm training on running a half-marathon (21km), my longest distance so far is 11km.
 
 You can contact me at: alois@micard.lu / creekorful@debian.org / IRC: creekorful on [oftc](https://www.oftc.net/).
